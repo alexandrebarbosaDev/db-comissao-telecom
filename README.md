@@ -23,12 +23,14 @@ O banco de dados é composto por 4 tabelas principais interligadas:
 
 ---
 
-### 🚀 Tecnologias Utilizadas
-
-- **Banco de Dados Relacional:** SQL (MySQL)
-- **Ferramenta de Documentação:** GitHub Markdown
-
 ---
+
+### 📂 Progresso do Projeto
+
+- [x] Publicar o Script DDL (Criação das tabelas e chaves estrangeiras).
+- [x] Construir as Queries de consultas complexas (JOINS) que realizam o cálculo automático das comissões.
+- [ ] Inserir dados fictícios de teste (DML) para simular o cenário de uma loja real.
+
 
 ### 📂 Próximos Passos do Projeto
 
