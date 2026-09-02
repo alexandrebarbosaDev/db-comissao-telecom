@@ -10,7 +10,8 @@ CREATE TABLE Produtos (
     id_produto INT PRIMARY KEY AUTO_INCREMENT,
     nome_produto VARCHAR(100) NOT NULL,
     categoria VARCHAR(50), -- Controle, Pós-Pago, Fibra, etc.
-    comissao_base DECIMAL(10, 2) NOT NULL
+    comissao_base DECIMAL(10, 2) NOT NULL,
+    pontos INT NOT NULL -- ADICIONE ESTA LINHA
 );
 
 CREATE TABLE Vendas (
